@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848437743900",
+    "project_id": "testtwo-3986b",
+    "storage_bucket": "testtwo-3986b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848437743900:android:3908aba0bcfb9f3747ead9",
+        "android_client_info": {
+          "package_name": "com.example.testtwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs7DXH3fsOiPuoPXZ1TlO9E_N_eIhRtLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
